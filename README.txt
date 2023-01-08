@@ -30,8 +30,8 @@ the CCSM4 model.
 % BIPOLAR VOLCANOES as in Svensson et al. 2020
 
 %% MODEL
-% AMK_modelcomp
+% AMK_modelcomp.m
 % script to plot model temperature output together with real data
 % and determine bipolar phasing in simulated temperature at approximate location
-% of all considered drilling sites. 
+% of all considered drilling sites under different CO2 forcing. 
 % uses function mymodelcomp.m
