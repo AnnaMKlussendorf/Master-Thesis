@@ -1,5 +1,5 @@
 This collection of MATLAB code is part of the Master's thesis "Bipolar Phasing of 
-Abrupt Climate Change During the Last Ice Age" by Anna Maria Klüssendorf
+Abrupt Climate Change During the Last Glacial Period" by Anna Maria Klüssendorf
 
 
 The code performs the dertermination of the onsets of 25 Dansgaard-Oeschger (DO) Events
